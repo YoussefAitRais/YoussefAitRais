@@ -1,8 +1,6 @@
-# 👋 Hey there, I'm **Youssef Ait Rais**
-
-### 🚀 Full-Stack Developer | Java | Angular | Spring Boot
-
-> *"Coding is where ideas become reality."*
+<h1 align="center">👋 Hey there, I'm <span style="color:#0052CC">Youssef Ait Rais</span></h1>
+<h3 align="center">🚀 Full-Stack Developer | Java | Angular | Spring Boot</h3>
+<p align="center"><em>"Coding is where ideas become reality."</em></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
@@ -10,95 +8,113 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-🎯 Passionate **Full-Stack Developer** building high-performance, user-centric web applications. I specialize in:
+🎯 I'm a passionate **Full-Stack Developer** who thrives on building fast, scalable, and intuitive web apps.
 
-### 💡 **Frontend Development:**
-
+### 💡 **Frontend Development**
 `🔹 HTML` | `CSS` | `TailwindCSS` | `JavaScript` | `Angular`
 
-### ⚙️ **Backend Development:**
-
+### ⚙️ **Backend Development**
 `🔹 Java` | `JEE` | `Spring Boot` | `SQL`
 
-### 🔧 **Tools & Technologies:**
+### 🧰 **Tools & Technologies**
+`🔹 Git` | `GitHub` | `Trello` | `Figma` | `Canva` | `Jira Software`
 
-`🔹 Git` | `GitHub` | `Trello` | `Figma` | `Canva` | `Jira`
+### 📌 **Workflow**
+`🔹 Agile/Scrum` for clean processes, efficient sprints, and teamwork
 
-### 📌 **Workflow:**
-
-`🔹 Agile/Scrum` methodology for efficient collaboration & continuous delivery.
-
-🎨 Always experimenting with new ideas and turning them into **reality** with code!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Pixel+Perfect+Frontend;Enterprise+Ready+Backends;Agile+Developer;Code.+Commit.+Deploy." alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🚀 Frontend
+### 🎯 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-
----
-
-### ⚙️ Backend
-
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![JEE](https://img.shields.io/badge/-JavaEE-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
----
-
-### 🧠 Planning & Project Management
-
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge\&logo=trello\&logoColor=white)
+### 🔧 Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaEE-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-### 🎨 UI/UX & Design
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-
----
-
-### 🚀 Version Control & Collaboration
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-### 📅 Methodology
-
-![Agile](https://img.shields.io/badge/-Agile/Scrum-44DD88?style=for-the-badge\&logo=agile\&logoColor=white)
-
----
-
-## ✨ Dynamic Spark
+## 🧠 Planning & Project Management
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=435&lines=Clean+Code+Evangelist;Pixel+Perfect+Frontend;Enterprise+Grade+Backend;Always+Learning+%26+Building..." alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+</p>
+
+---
+
+## 🎨 UI/UX & Design
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+## 🤝 Version Control & Collaboration
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📅 Methodology
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Agile/Scrum-44DD88?style=for-the-badge&logo=agile&logoColor=white"/>
+</p>
+
+---
+
+## 🌟 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAitRais&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAitRais&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAitRais&layout=compact&theme=radical"/>
 </p>
 
 ---
 
 ## 🎭 Fun Quote
 
-> 💡 *"Any fool can write code that a computer can understand.
+> 💡 *"Any fool can write code that a computer can understand.  
 > Good programmers write code that humans can understand."* — **Martin Fowler**
 
 ---
 
 ## 🧩 Let's Connect!
 
-Feel free to reach out for collaborations, freelancing, or just a friendly tech talk!
-🌐 [Portfolio](#) • 💼 [LinkedIn](#) • 📨 [Email](#)
+<p align="center">
+  🌐 <a href="#">Portfolio</a> &nbsp;•&nbsp;
+  💼 <a href="#">LinkedIn</a> &nbsp;•&nbsp;
+  📧 <a href="#">Email</a>
+</p>
+
+---
+
