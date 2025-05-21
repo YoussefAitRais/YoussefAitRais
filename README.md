@@ -65,10 +65,12 @@
 ---
 
 ## 🎨 UI/UX & Design
+## 🎨 UI/UX & Design
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="55" alt="Figma" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" width="70" alt="Canva" />
+  <img src="https://logodownload.org/wp-content/uploads/2021/07/canva-logo-1.png" width="90" alt="Canva" />
 </p>
+
 
 ---
 
