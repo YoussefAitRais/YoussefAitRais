@@ -3,8 +3,7 @@
 <p align="center"><em>"Coding is where ideas become reality."</em></p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-<br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </p>
 
 ---
@@ -35,65 +34,60 @@
 
 ### 🎯 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="55" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="55" alt="TailwindCSS" />
 </p>
+
+---
 
 ### 🔧 Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaEE-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" alt="Spring Boot" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" alt="MySQL/SQL" />
 </p>
 
 ---
 
 ## 🧠 Planning & Project Management
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="250" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="55" alt="Jira" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="55" alt="Trello" />
 </p>
 
 ---
 
 ## 🎨 UI/UX & Design
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="55" alt="Figma" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" width="70" alt="Canva" />
 </p>
 
 ---
 
 ## 🤝 Version Control & Collaboration
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" alt="GitHub" />
 </p>
 
 ---
 
 ## 📅 Methodology
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-Agile/Scrum-44DD88?style=for-the-badge&logo=agile&logoColor=white"/>
+  <img src="https://media.giphy.com/media/UqBIlfpEcHRgk0dzH7/giphy.gif" width="120" title="Agile/Scrum"/>
 </p>
 
 ---
 
 ## 🌟 GitHub Stats & Activity
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YoussefAitRais&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAitRais&theme=radical" />
@@ -110,7 +104,6 @@
 ---
 
 ## 🧩 Let's Connect!
-
 <p align="center">
   🌐 <a href="#">Portfolio</a> &nbsp;•&nbsp;
   💼 <a href="#">LinkedIn</a> &nbsp;•&nbsp;
@@ -118,4 +111,3 @@
 </p>
 
 ---
-
