@@ -18,9 +18,6 @@
 ### ⚙️ **Backend Development**
 `🔹 Java` | `JEE` | `Spring Boot` | `SQL`
 
-### 🧰 **Tools & Technologies**
-`🔹 Git` | `GitHub` | `Trello` | `Figma` | `Canva` | `Jira Software`
-
 ### 📌 **Workflow**
 `🔹 Agile/Scrum` for clean processes, efficient sprints, and teamwork
 
@@ -30,7 +27,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### 🎯 Frontend
 <p align="center">
@@ -48,15 +45,29 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" alt="Java" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" alt="Spring Boot" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" alt="MySQL/SQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" alt="MySQL" />
 </p>
 
 ---
 
-## 🧠 Planning & Project Management
+## 📐 UI/UX & Design
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="250" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="55" alt="Figma" />
+  <img src="https://logodownload.org/wp-content/uploads/2021/07/canva-logo-1.png" width="90" alt="Canva PNG" />
 </p>
+
+---
+
+## 🛠 Tools & Version Control
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" alt="Git" />
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="55" alt="GitHub - White BG" />
+</p>
+
+---
+
+## 📅 Planning & Project Management
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="55" alt="Jira" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="55" alt="Trello" />
@@ -64,27 +75,15 @@
 
 ---
 
-## 🎨 UI/UX & Design
-## 🎨 UI/UX & Design
+## 📌 Methodology: Agile & Scrum
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="55" alt="Figma" />
-  <img src="https://logodownload.org/wp-content/uploads/2021/07/canva-logo-1.png" width="90" alt="Canva" />
+  <img src="https://media.giphy.com/media/l0HlQ7LRal9L2y7aY/giphy.gif" width="600" alt="Agile Scrum Workflow GIF" />
 </p>
 
-
----
-
-## 🤝 Version Control & Collaboration
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" alt="GitHub" />
-</p>
-
----
-
-## 📅 Methodology
-<p align="center">
-  <img src="https://media.giphy.com/media/UqBIlfpEcHRgk0dzH7/giphy.gif" width="120" title="Agile/Scrum"/>
+  <strong>🔄 Agile + Scrum Framework</strong><br/>
+  🔧 Iterative sprints • 👥 Daily stand-ups • 📦 Deliver value fast • 📊 Retrospectives • 💬 Continuous improvement
 </p>
 
 ---
@@ -111,5 +110,3 @@
   💼 <a href="#">LinkedIn</a> &nbsp;•&nbsp;
   📧 <a href="#">Email</a>
 </p>
-
----
